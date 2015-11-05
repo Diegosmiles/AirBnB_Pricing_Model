@@ -1,5 +1,7 @@
-0) separate the NYC maps into boroughs
+In order to get the files for the ipython notebook, I used some spatial analysis tools:
 
+
+0) separate the NYC maps into boroughs
 
 1) I divided listings data into Manhattan and Brooklyn
 
